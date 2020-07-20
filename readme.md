@@ -1,1 +1,1 @@
-Samo na novoj grani se nalazi ovaj fajl
+Master grana
